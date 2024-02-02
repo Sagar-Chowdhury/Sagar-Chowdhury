@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Spring , Spring Boot**
 
-- 💬 Ask me about **Angular, Android, Spring, Java.**
+- 💬 Ask me about **Java,Angular,Spring,Android,Data Structures And Algorithms**
 
 - 📫 Reach Me @ **syncwithsagar@gmail.com**
 
