@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sagar Chowdhury</h1>
 <h3 align="center">A passionate developer from India.</h3>
 
-- 🌱 I’m currently learning **Spring , Spring Boot**
+- 🌱 I’m currently learning **NodeJs ,Spring , Spring Boot**
 
 - 💬 Ask me about **Java , Angular , Spring,Android , Data Structures And Algorithms**
 
