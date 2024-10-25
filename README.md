@@ -7,7 +7,7 @@
 
 - 📫 Reach Me @ **syncwithsagar@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1NyLyUYeYvBpOD1Ir6j4VU1OfgLDjHTGJ/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://tinyurl.com/SagarChowdhuryResume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
